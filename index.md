@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+<html>
+<body style="background-color:pink;">
 
-You can use the [editor on GitHub](https://github.com/Group6SCM/MiniProject/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h1 style="text-align:center;">SCM MINI PROJECT</h1>
+<h2 style="text-align:center;">Group 6</h2>
 
-### Markdown
+<img src="http://media2.giphy.com/media/LHZyixOnHwDDy/giphy.gif" alt="Computer cat" style="width:200px;height:150;">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h3>SCM 6 Core Functions :</h3>
 
-```markdown
-Syntax highlighted code block
+<pre>
+   1.Source Code Management
 
-# Header 1
-## Header 2
-### Header 3
+   2.Build Engineering
 
-- Bulleted
-- List
+   3.Environment Control
+   
+   4.Change Control
+   
+   5.Release
+   
+   6.Deployment
+</pre>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Group6SCM/MiniProject/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
