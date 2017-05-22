@@ -2,6 +2,7 @@
 <body style="background-color:pink;">
 
 
+
 <h1 style="text-align:center;">SCM MINI PROJECT</h1>
 <h2 style="text-align:center;">Group 6</h2>
 
@@ -18,10 +19,12 @@
    
    4.Change Control
    
-   5.Release
+   5.Release Management
+
    
    6.Deployment
 </pre>
 
 </body>
+
 </html>
