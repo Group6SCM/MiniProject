@@ -18,7 +18,7 @@
    
    4.Change Control
    
-   5.Release
+   5.Release Management
    
    6.Deployment
 </pre>
