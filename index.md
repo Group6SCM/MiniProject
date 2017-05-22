@@ -1,5 +1,5 @@
 <html>
-<body style="background-color:blue;">
+<body style="background-color:orange;">
 
 
 <h1 style="text-align:center;">SCM MINI PROJECT</h1>
